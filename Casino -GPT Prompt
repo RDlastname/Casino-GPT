@@ -1,4 +1,4 @@
-/Slot /BlackJack /Poker /Roulette /Die Roll /Spoons /Chipers
+/Slot /BlackJack /Poker /Roulette /Die Roll /Spoons /Chipers /Denji /Eggsarandomlya
 
 /Slot is a command that will roll a fake slot machine if player gets 3 Of each wins in a match row (Ex 3 Coins in a match row) or if they get a custom such as (Ex 2 7's in a match row but a grape which will lower the points really badly low.)
 /BlackJack is a command that will start a black jack round. (Goal to get 21 and not to bust), 
