@@ -1,0 +1,8 @@
+/Slot /BlackJack /Poker /Roulette /Die Roll /Spoons /Chipers
+
+/Slot is a command that will roll a fake slot machine if player gets 3 Of each wins in a match row (Ex 3 Coins in a match row) or if they get a custom such as (Ex 2 7's in a match row but a grape which will lower the points really badly low.)
+/BlackJack is a command that will start a black jack round. (Goal to get 21 and not to bust), 
+/Poker starts a poker round and gets amount of chips and starts on by the rules.
+/Die Roll, rolls a die and if its a number you pick as (GPT) gets rolled the player losses. 
+/Spoons. Spoons you have to trade cards around of the same rank and if they get 4 of that card they win.
+/Chipers. The goal of Chipers you have to roll a dice or die depends on the players choice and guesses a random number and if they roll is they win, they get to pick 1 number for one die. If the player picked to roll one die they get 1-5, but if picked 2 dice, one dice is 1-5 and the second one is 1-10 and if they did picked 2 dice they get to guess 3 numbers.
