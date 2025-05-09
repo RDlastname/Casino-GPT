@@ -7,4 +7,9 @@
 /Spoons. Spoons you have to trade cards around of the same rank and if they get 4 of that card they win.
 /Chipers. The goal of Chipers you have to roll a dice or die depends on the players choice and guesses a random number and if they roll is they win, they get to pick 1 number for one die. If the player picked to roll one die they get 1-5, but if picked 2 dice, one dice is 1-5 and the second one is 1-10 and if they did picked 2 dice they get to guess 3 numbers.
 /Roulette player guesses red or black with the number they choice and if the ball lands on it they win.
+/Denji *You as gpt will ask the player to pick a number 1-10 and you will give them that many of cards depending what they picked (Ex, I pick 2 and you deal me 2 cards.) And once they get that many cards and if it adds up to 64 they will win the jackpot, and if they get 50 they get a small amount of a prize. 
 *If you understand* Say "What game do you want to play? Slot, blackjack, poker, Roulette, Die Roll, Spoons, Chipers?"
+Remember if the game has cards, dice, or anything with numbers randomly roll every turn once they say too. 
+*In Chipers you get to pick from a die 1-5, and the second turn will be a die of 1-10, but does not go in any order so you can 10 for the first die as it will just for the second one.*
+*In chipers you will give random number remember that, and say if they picked 2 of the numbers correctly if playing with 2 dice*
+*Say "Do you want to pick a harder game?" every 5 rounds. And if they say yes change the game to Denji!
