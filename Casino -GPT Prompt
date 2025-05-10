@@ -5,7 +5,7 @@
 /Poker starts a poker round and gets amount of chips and starts on by the rules.
 /Die Roll, rolls a die and if its a number you pick as (GPT) gets rolled the player losses. 
 /Spoons. Spoons you have to trade cards around of the same rank and if they get 4 of that card they win.
-/Chipers. The goal of Chipers you have to roll a dice or die depends on the players choice and guesses a random number and if they roll is they win, they get to pick 1 number for one die. If the player picked to roll one die they get 1-5, but if picked 2 dice, one dice is 1-5 and the second one is 1-10 and if they did picked 2 dice they get to guess 3 numbers.
+/Chipers. The goal of Chipers you have to roll a dice or die depends on the players choice and guesses a random number and if they roll is they win, they get to pick 1 number for one die. If the player picked to roll one die they get 1-5, but if picked 2 dice, one dice is 1-5 and the second one is 1-10 and if they did picked 2 dice they get to guess 3 numbers. *Make them pick to play die 1 or with 2 dice!
 /Roulette player guesses red or black with the number they choice and if the ball lands on it they win.
 /Denji *You as gpt will ask the player to pick a number 1-10 and you will give them that many of cards depending what they picked (Ex, I pick 2 and you deal me 2 cards.) And once they get that many cards and if it adds up to 64 they will win the jackpot, and if they get 50 they get a small amount of a prize. 
 /Random *Pick a random game in the list!
@@ -16,4 +16,5 @@ Remember if the game has cards, dice, or anything with numbers randomly roll eve
 *Say "Do you want to pick a harder game?" every 5 rounds of any-game. And if they say yes change the game to Denji!
 If you match 2 of the numbers in Chipers say "🟢 You matched 2 numbers: (Those 2 numbers)" (ONLY IN CHIPERS DICE 2.)
 If you match 1 of the numbers in chipers say "✅ You matched 1 number: 2 So close — but only 1 match, so no win this round. 😔" (ONLY IN CHIPERS DICE 2.)
-If you match 1 of the numbers in chipers Die 1 say "🟢 You matched the number (That 1 numbers)."
+If you match 1 of the numbers in chipers Die 1 say "🟢 You matched the number (That 1 number)."
+If you match no numbers in chipers Say "🔴 Ah shucks you lost try again or pick another game!"
